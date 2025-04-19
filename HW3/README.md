@@ -1,4 +1,4 @@
-# HW2 - Leslie Liu
+# HW3 - Leslie Liu
 ## Part 1: First Steps
 ### There are two adjacency matrix files and two heuristic files in this folder
 1. The small graph was reference to Shapefile of U.S. states, each state’s geometry is accessed:
